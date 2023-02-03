@@ -1,16 +1,24 @@
-### Hi there 👋
+### fIowerpot
+Please don't expect me to upload a lot **here**, most of my repositories are **private**.
 
-<!--
-**fIowerpot/fIowerpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>Languages I know</summary>
+<ul>
+  <li>OCaml</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Scala</li>
+  <li>Haskell</li>
+</ul>
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary>Languages I don't often write in</summary>
+<ul>
+  <li>Python</li>
+  <li>Julia</li>
+  <li>x86/x86_64 Assembly</li>
+</ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ oliver
