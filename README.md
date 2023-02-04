@@ -16,7 +16,6 @@ Please don't expect me to upload a lot **here**, most of my repositories are **p
 <summary>Languages I don't often write in</summary>
 <ul>
   <li>Python</li>
-  <li>Julia</li>
   <li>x86/x86_64 Assembly</li>
 </ul>
 </details>
